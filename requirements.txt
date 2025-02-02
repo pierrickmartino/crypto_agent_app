@@ -1,0 +1,8 @@
+# requirements.txt
+pydantic
+requests
+fastapi
+uvicorn
+pydantic-ai
+openai
+python-dotenv
